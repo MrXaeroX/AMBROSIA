@@ -26,4 +26,4 @@ Optional *special energy* term is actually an artificial term used to restrain a
 Currently, AMBROSIA supports only the Gaussian solvent-exclusion implicit solvation model, also known as EEF1, described by T. Lazaridis and M. Karplus (Proteins 1999: 35, 133-152) and implemented in CHARMM and BioPASED. Other implicit (e.g. Generalized Born) and explicit solvation models are under development.
 
 ## More Information
-- [PDF Manual](../blob/master/AMBROSIA.pdf)
+- [PDF Manual](../master/AMBROSIA.pdf)
